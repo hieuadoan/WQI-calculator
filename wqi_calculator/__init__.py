@@ -1,1 +1,4 @@
-from .wqi_calculator import WQICalculator
+from .wqi import WQICalculator
+
+__all__ = ["WQICalculator"]
+
