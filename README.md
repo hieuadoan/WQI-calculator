@@ -1,1 +1,1 @@
-Web interface for calculating water quality index (QWI) using users' inputs.
+Web interface for evaluating water quality index (QWI) using users' inputs.
